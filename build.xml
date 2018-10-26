@@ -11,7 +11,7 @@
     <target name="deployCode">
       <echo level="info">Performing the deploy</echo>
       <sf:deploy
-	checkOnly="true"
+	checkOnly="false"
  	logType="Debugonly"
         username="${sf.username}"
         password="${sf.password}"
