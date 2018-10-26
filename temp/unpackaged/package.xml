@@ -12,6 +12,7 @@
         <members>Expense__c.Client__c</members>
         <members>Expense__c.Date__c</members>
         <members>Expense__c.Reimbursed__c</members>
+        <members>Expense__c.Expense_category__c</members>
         <members>Registration_form__c.Available_on_Weekends__c</members>
         <members>Registration_form__c.Hours_of_Study__c</members>
         <members>Registration_form__c.Mobile_Number__c</members>
